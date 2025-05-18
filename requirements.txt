@@ -1,0 +1,13 @@
+python-dotenv
+pandas
+unstructured
+wikipedia
+pypdf
+jq
+nltk
+tiktoken
+cohere
+faiss-cpu
+chromadb
+sentence-transformers
+langchain-huggingface
